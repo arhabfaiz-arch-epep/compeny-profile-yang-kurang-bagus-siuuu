@@ -11,3 +11,4 @@
 - [x] Step 7: Improve the loading screen (puzzle loader) with better effects like glow and smoother transitions.
 - [x] Step 8: Add cool animations to the navbar, such as slide-in on load and enhanced hover effects.
 - [x] Step 9: Improve animations in the Our Services section to make them cooler (e.g., staggered entry, enhanced hover effects).
+- [x] Step 10: Add E-Report feature with local storage - form to submit reports and display saved reports.
